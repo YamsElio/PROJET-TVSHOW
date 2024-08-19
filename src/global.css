@@ -1,0 +1,14 @@
+body{
+  color:white;
+  font-family: Maximun Impact;  
+}
+::-webkit-scrollbar{
+  background-color: transparent;
+  height: 10px;
+}
+::-webkit-scrollbar-thumb:horizontal{
+  background-color:rgba(0, 0, 0, 0.65);
+  height: 5px;
+  width: 5px;
+  border-radius: 5px;
+}

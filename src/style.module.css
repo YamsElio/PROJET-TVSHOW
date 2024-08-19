@@ -1,0 +1,19 @@
+.main_container{
+    display: flex;
+    height: 100vh;
+    padding: 20px;
+    background:  rgb(0, 0, 0);
+    flex-direction: column;
+}
+
+.header{
+    flex:1;
+}
+
+.tv_show_detail{
+    flex: 2; 
+}
+
+.recommendations{
+    flex:1;
+}
